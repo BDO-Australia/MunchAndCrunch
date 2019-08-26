@@ -1,4 +1,4 @@
-# Folder specific for today's session
+# Munch and crunch hands on workshop using power BI
 
 In today's session we will cover some basics on Data analytics using Power BI. 
 Specifically, we will focus on some of the data preparation activities including 
