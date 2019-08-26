@@ -1,6 +1,6 @@
 # Answers Key
 
-## Excercise 1
+## Exercise 1
 
 Table | Rows 
 --- | --- 
@@ -9,7 +9,7 @@ Manufacturer | 14
 Products | 2412
 
 
-## Excercise 2
+## Exercise 2
 
 Question | Rows 
 --- | --- 
@@ -19,7 +19,7 @@ Rows imported from international sales table | 797244
 Total rows in Sales query now | 10782612
 
 
-## Excercise 3
+## Exercise 3
 
 Question | Rows 
 --- | --- 
