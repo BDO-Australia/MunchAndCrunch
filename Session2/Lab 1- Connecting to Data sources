@@ -1,0 +1,42 @@
+SCENARIO
+VanArsdel is a company that manufactures and sells sporting goods. The company has offices in the United States (US) and several other countries. Its sales comprise of US sales and International sales. VanArsdel’s sales come from its owned manufactured products, as well as other manufacturers’ products.
+
+VanArsdel's US office stores the sales data on an Access database. VanArsdel International sales transactions are available as comma separated (CSV) files. They could be generated daily, either manually by someone, or automatically by an automated process. They are available in a dedicated folder. These CSV files have the same column structure as the sales table for the US sales that comes from the SQL Database.
+
+You want to perform analysis on VanArsdel's worldwide sales data for the year 2000 to 2015. You need to bring all these data into Power BI Desktop before you can perform any analysis. Finally, you want to compare VanArsdel's country sales with the country population. You need to import the country population data from a less structured Excel report to Power BI.
+
+LAB OVERVIEW
+This lab comprises of three exercises:
+
+In the first exercise, you will import data to Power BI Desktop from an Access database file.
+In the second exercise, you will import data from CSV files which resides in a file folder. You will append this new data to the corresponding existing data that comes from the Access Database.
+In the third exercise, you will import data to Power BI Desktop from an Excel file that is less structured.
+Before starting this lab, you should review the Power BI Desktop Data Transformations module in this course. Then, if you have not already done so, follow the instructions in the Set up the Lab Environment section of this course to set up the lab environment.
+
+WHAT YOU'LL NEED
+A computer with the latest version of Power BI Desktop installed on it.
+
+A copy of the Access Database containing VanArsdel's US sales data.
+
+4 CSV files, containing VanArsdel’s international sales data:
+
+CA Sales.csv
+FR Sales.csv
+DE Sales.csv
+MX Sales.csv
+
+An Excel file containing country population data.
+
+NOTE: If you are having issues with the direct link, head over to the github repository and download from there. https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI
+
+CONNECTING TO AN ACCESS DATABASE FOR THE FIRST TIME
+If you are connecting to an Access database for the first time, you might need to install the Access redistributable package.
+
+If you have a 32 bit machine, you need to install the 32 bit Power BI Desktop and the 32 bit redistributable of Access.
+If you have a 32 bit Office installed (regardless of your machine), you need to install the 32 bit Power BI Desktop and the 32 bit redistributable of Access.
+Otherwise, you can install the 64 bit Power BI Desktop and the 64 bit redistributable of Access.
+Follow the link provided by Power BI Desktop when trying to connect to the Access database.
+For more information , you can see: 
+Microsoft Access Database Engine: https://aka.ms/edx-dat207x-made 
+Power BI: https://aka.ms/edx-dat207x-pbi01
+Resolving issues importing Access and .XLS files in Power BI Desktop: https://docs.microsoft.com/en-us/power-bi/desktop-access-database-errors
