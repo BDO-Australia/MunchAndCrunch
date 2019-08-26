@@ -14,4 +14,4 @@ After the quick debrief on some of the concepts, we will dive into the hands on 
 3. [Excercise 2](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/3.%20Excercise-2.md)
 4. [Excercise 3](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/4.%20Excercise-3.md)
 
-All the data required for this lab is available [here](https://github.com/BDO-Australia/MunchAndCrunch/tree/master/Session2/VanArsdel%20Tables).
+All the data required for this lab is available [here](https://github.com/BDO-Australia/MunchAndCrunch/tree/master/Session2/Data).
