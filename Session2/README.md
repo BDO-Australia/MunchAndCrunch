@@ -15,9 +15,9 @@ Read the introduction - [Lab scenario introduction](https://github.com/BDO-Austr
 
 This lab comprises of three exercises:
 
-1. [Excercise 1](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/2.%20Excercise-1.md): import data to Power BI Desktop from an SQL database running on Microsoft Azure. 
-2. [Excercise 2](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/3.%20Excercise-2.md): import data from CSV files which resides in a file folder. You will append this new data to the corresponding existing data that comes from the Azure SQL Database. 
-3. [Excercise 3](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/4.%20Excercise-3.md): import data to Power BI Desktop from an Excel file that is less structured. 
+1. [Exercise 1](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/2.%20Exercise-1.md): import data to Power BI Desktop from an SQL database running on Microsoft Azure. 
+2. [Exercise 2](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/3.%20Exercise-2.md): import data from CSV files which resides in a file folder. You will append this new data to the corresponding existing data that comes from the Azure SQL Database. 
+3. [Exercise 3](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/4.%20Exercise-3.md): import data to Power BI Desktop from an Excel file that is less structured. 
 
 ## What you'll need
 
