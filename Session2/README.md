@@ -32,3 +32,5 @@ Attribute | Value
 **Password**| *Munch_Crunch*
 
 - All the data required for this lab is available for download [here](https://github.com/BDO-Australia/MunchAndCrunch/tree/master/Session2/Data).
+
+Let's get started with the [Lab](https://github.com/BDO-Australia/MunchAndCrunch/blob/master/Session2/1.%20Lab%20Introduction.md)
